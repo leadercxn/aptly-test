@@ -3,22 +3,28 @@ Label: Example
 Suite: stable
 Codename: stable
 Version: 1.0
-Architectures: amd64 arm64 arm7
+Architectures: amd64 arm64 arm7 armhf
 Components: main
 Description: An example software repository
-Date: Wed, 09 Feb 2022 10:31:08 +0000
+Date: Fri, 11 Feb 2022 03:26:36 +0000
 MD5Sum:
- a6d04a83e1875321db12229a5834c19a 862 Release.gpg
- 397878c1af6b5be660c47fc0a16510bf 1629 InRelease
+ df80e2a15a6738fecfc50bee40094943 862 Release.gpg
+ 94e61d956753c0818d0da4c9dd572a30 2006 InRelease
+ 54071b8baa4311565ec0379a00920669 432 main/binary-armhf/Packages.gz
+ 920c60cdaf08131720cb06ac184ea7c1 815 main/binary-armhf/Packages
  0efc2161922e071001041365135b683f 428 main/binary-amd64/Packages.gz
  d53c8cc3f8ef2483be047e8b51619e2a 815 main/binary-amd64/Packages
 SHA1:
- 6ba21b70d618392fa303e1f4ac895802e4268f97 862 Release.gpg
- 3f14e98dd5561c3c78c1859f14d87aaa89682c0f 1629 InRelease
+ 340cb92b666ac9267508be80733f547f6d09d392 862 Release.gpg
+ d937eb734f5e4f76f94ba290a524abc122747fde 2006 InRelease
+ 05bcf121a627a41be28c55b6198dccc5a7bc30d6 432 main/binary-armhf/Packages.gz
+ a4cfd2213e15c214e2e08ed992c7a70b86b3a4a7 815 main/binary-armhf/Packages
  20af439eab68e7f2ee037ae8ff13a68ef25e26dd 428 main/binary-amd64/Packages.gz
  0b14cb1405a4077c3d1713201712140332e8b00d 815 main/binary-amd64/Packages
 SHA256:
- 141a42c2ba995f746e5307add511ef14e1cb7ce0a3bbf5ce4245788e8472e7c9 862 Release.gpg
- 0c438d91a9464be4e09e624c83803a50a8cdd6968cce0c92cb124aa508cb7ab9 1629 InRelease
+ 9440336bbdf29ec883b0c3e3a89680681278c9400c2e577387182ca3a160b80b 862 Release.gpg
+ f6b58a59aaf176b302fe33b36edfa3ce1132c8c0ef71dfee5b660a89519e51c5 2006 InRelease
+ 9d0fe8f4cf1efb61f874a440b9e8c1a47c95a9908fdaa75a0cdd179617840026 432 main/binary-armhf/Packages.gz
+ e57c51e0d6696b1b2fb892da2975984b8672747b71daacc741a51576ef2c5580 815 main/binary-armhf/Packages
  288af7d97da88f3d7428a14dcd6693fa32d281fd66b548b0fd1b6ee9e6b2f764 428 main/binary-amd64/Packages.gz
  e67d6509aa197f1348ec18fbc044f2ed728138d1008e48cb0375280d9abd27fb 815 main/binary-amd64/Packages

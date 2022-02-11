@@ -20,7 +20,7 @@ Label: Example
 Suite: stable
 Codename: stable
 Version: 1.0
-Architectures: amd64 arm64 arm7
+Architectures: amd64 arm64 arm7 armhf
 Components: main
 Description: An example software repository
 Date: $(date -Ru)

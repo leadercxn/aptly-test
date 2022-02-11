@@ -1,0 +1,26 @@
+Package: goodbye-world
+Version: 0.0.1
+Architecture: armhf
+Maintainer: example <example@example.com>
+Depends: libc6
+Filename: pool/main/goodbye_0.0.1-1_armhf.deb
+Size: 5020
+MD5sum: bd8d635d238ab6d34568c009a0a89514
+SHA1: 30204dbe8df2b0186e6d052123db6148941adb7a
+SHA256: e50863b891a8d48cfcf6012d72c65b6199f01ffd8ecf4961e1b93babc1786b1c
+Homepage: http://example.com
+Description: A program that prints goodbye world!!!
+
+Package: hello-world
+Version: 0.0.1
+Architecture: armhf
+Maintainer: example <example@example.com>
+Depends: libc6
+Filename: pool/main/hello_0.0.1-1_armhf.deb
+Size: 5020
+MD5sum: b7d53fef8965223f3755d070ccda2e20
+SHA1: d98b5b8a94ffc1d0c0f5de1d5a3e7793e399372c
+SHA256: 3a4d752597c19efc262a1e37bb996161a6f07a196314b7c653949290690d9eb2
+Homepage: http://example.com
+Description: A program that prints hello
+
